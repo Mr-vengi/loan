@@ -101,7 +101,6 @@ mistune==3.1.0
 ml-dtypes==0.4.1
 multidict==6.1.0
 multitasking==0.0.11
-maturin=="1.8.2"
 namex==0.0.8
 narwhals==1.22.0
 nbclient==0.10.2
@@ -169,8 +168,6 @@ squarify==0.4.4
 stack-data==0.6.3
 streamlit==1.41.1
 streamlit-marquee==0.0.7
-some-rust-dependency=="*"
-tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
